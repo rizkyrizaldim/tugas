@@ -84,6 +84,12 @@ Berikut adalah langkah-langkahnya:
            game_gui = TicTacToeGUI()
            game_gui.start_game()
    
+4. Run Coding tersebut dan lihat outputnya.
+   ![image](https://github.com/rizkyrizaldim/tugas/assets/148876602/1c0b6a4b-d44a-46a7-89cb-90a290316f8d)
+   ![image](https://github.com/rizkyrizaldim/tugas/assets/148876602/6f38d9fc-3586-4cc4-98ef-740de33938e0)
+   ![image](https://github.com/rizkyrizaldim/tugas/assets/148876602/2de76eac-a2a8-4356-8de0-f0ad930f29a9)
+
+
 # Penjelasan Coding
 Kode tersebut adalah implementasi dari permainan Tic Tac Toe menggunakan antarmuka grafis (GUI) dengan modul `tkinter` di Python. Saya akan memberikan penjelasan untuk setiap bagian dari kode tersebut:
 
