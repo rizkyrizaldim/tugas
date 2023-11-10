@@ -1,7 +1,7 @@
 # Rizky Rizaldi Mastiyanto (5311421085)
 # Praktek Best First Search
 # Permainan Tic-Tac-Toe 3x3
-Tujuan Praktikum untuk meningkatkan pemahaman mahasiswa terhadap code permainan tic tac toe. Selain itu, modul 6
+Tujuan Praktikum untuk meningkatkan pemahaman mahasiswa terhadap code permainan tic tac toe. Selain itu, praktikum ini dapat
 memberikan pengetahuan tentang Object Oriented Programming menggunakan bahasa pemrograman Python di Visual Studio Code.
 
 Berikut adalah langkah-langkahnya:
