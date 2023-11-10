@@ -159,53 +159,54 @@ Kode tersebut adalah implementasi dari permainan Tic Tac Toe menggunakan antarmu
    - Membuat tombol untuk mereset papan permainan.
 
 10. Metode `reset_board`:
-   ```python
-   def reset_board(self):
-   ```
-   - Mengatur ulang papan permainan.
+    ```python
+    def reset_board(self):
+    ```
+    - Mengatur ulang papan permainan.
 
 11. Metode `on_click`:
-   ```python
-   def on_click(self, row, col):
-   ```
-   - Dipanggil saat tombol pada papan permainan ditekan.
+    ```python
+    def on_click(self, row, col):
+    ```
+    - Dipanggil saat tombol pada papan permainan ditekan.
 
 12. Metode `switch_player`:
-   ```python
-   def switch_player(self):
-   ```
-   - Mengganti pemain aktif.
+    ```python
+    def switch_player(self):
+    ```
+    - Mengganti pemain aktif.
 
 13. Metode `update_turn_label`:
-   ```python
-   def update_turn_label(self):
-   ```
-   - Memperbarui label yang menunjukkan giliran pemain.
+    ```python
+    def update_turn_label(self):
+    ```
+    - Memperbarui label yang menunjukkan giliran pemain.
 
 14. Metode `check_winner`:
-   ```python
-   def check_winner(self):
-   ```
-   - Memeriksa apakah ada pemenang.
+    ```python
+    def check_winner(self):
+    ```
+    - Memeriksa apakah ada pemenang.
 
 15. Metode `is_board_full`:
-   ```python
-   def is_board_full(self):
-   ```
-   - Memeriksa apakah papan permainan sudah penuh.
+    ```python
+    def is_board_full(self):
+    ```
+    - Memeriksa apakah papan permainan sudah penuh.
 
 16. Metode `start_game`:
-   ```python
-   def start_game(self):
-   ```
-   - Memulai permainan dan menampilkan jendela Tkinter.
+    ```python
+    def start_game(self):
+    ```
+    - Memulai permainan dan menampilkan jendela Tkinter.
 
 17. Memeriksa Apakah Ini Pemanggilan Utama:
-   ```python
-   if __name__ == "__main__":
+    ```python
+    if __name__ == "__main__":
        game_gui = TicTacToeGUI()
        game_gui.start_game()
-   ```
-   - Memastikan bahwa permainan dimulai hanya jika skrip ini dijalankan sebagai skrip utama (bukan sebagai modul). Membuat objek `TicTacToeGUI` dan memulai permainan.
+    ```
+    - Memastikan bahwa permainan dimulai hanya jika skrip ini dijalankan sebagai skrip utama (bukan sebagai modul). Membuat objek 
+    `TicTacToeGUI` dan memulai permainan.
 
 Dengan kode ini, Anda dapat menjalankan permainan Tic Tac Toe dengan GUI Tkinter. Pemain dapat mengklik tombol pada papan permainan untuk menempatkan tanda mereka, dan permainan akan berlanjut hingga ada pemenang atau papan permainan penuh (seri).
