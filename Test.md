@@ -1,4 +1,4 @@
-#Google Maps:
+# Google Maps:
 
 1. Knowledge Base (Basis Pengetahuan):
    - Definisi Analog: Peta dan data lokasi adalah analogi basis pengetahuan. Informasi ini mencakup geografi, jalan-jalan, lokasi bisnis, dan detail lainnya yang menyusun dasar informasi yang digunakan oleh sistem.
