@@ -1,7 +1,4 @@
-Kelompok :
-- Muhammad Adityo Wiryawan
-- Hamdan Kamal Fahrudin
-- Rizky Rizaldi Mastiyanto
+# Rizky Rizaldi Mastiyanto (5311421085)
 # Google Maps:
 
 1. Knowledge Base (Basis Pengetahuan):
