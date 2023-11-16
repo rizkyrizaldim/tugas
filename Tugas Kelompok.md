@@ -1,3 +1,7 @@
+Kelompok :
+- Muhammad Adityo Wiryawan
+- Hamdan Kamal Fahrudin
+- Rizky Rizaldi Mastiyanto
 # Google Maps:
 
 1. Knowledge Base (Basis Pengetahuan):
